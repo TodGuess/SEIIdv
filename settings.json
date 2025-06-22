@@ -1,0 +1,1 @@
+{"ExpR": 0.6, "InfR": 50, "DthR": 0.003, "RcvR": 0.1, "VcnR": 0.1, "rILR": 0.051, "vILR": 0.073, "VcnS": 100000, "distancing_days": [30, 70, 130], "distancing_exprs": [0.5, 0.3, 0.1], "cure_days": 30, "overcome_limit": 0.0001, "vaccine_s": 750, "cue_s": 430}
